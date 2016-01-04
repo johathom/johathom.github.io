@@ -1,12 +1,17 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background: url(http://previews.123rf.com/images/snapsnap/snapsnap1201/snapsnap120100533/12190155-brown-Rice-background-Stock-Photo.jpg) repeat;
+  background-color: #5F9EA0;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto;
+  border-style: dashed;
 }
 h4 {
 	color:blue;
 }
+a {
+	color: orange;
+}
+
