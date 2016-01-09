@@ -1,0 +1,22 @@
+img {
+	height: 125px;
+}
+h1, h2 {
+	text-align: center; 
+}
+#upper {
+	color: violet;
+}
+body {
+		background-color: lightyellow;
+		<!-- background-image: url(http://foodwatch.com.au/images/stories/p-labelling/Butter_sugar_flour.jpg); 
+-->
+}
+.category {
+	font-style: bold, underline;
+	color: green;
+	font-weight: bold;
+}
+.chunk {
+	display: inline-table;
+}
