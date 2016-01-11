@@ -20,3 +20,14 @@ body {
 .chunk {
 	display: inline-table;
 }
+body {
+	padding-top: 70px;
+	font-family: 'Poiret One';
+}
+p {
+	font-family: 'Poiret One';
+	text-align: center;
+}
+.jumbotron {
+	background-image: url(cupcake.jpg);
+}
