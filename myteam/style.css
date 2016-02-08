@@ -1,0 +1,16 @@
+body {
+	color: white;
+}
+h1 {
+	color: crimson;
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+.jumbotron {
+	background-image: url("https://s3.amazonaws.com/media.ids/57227_iubbvsmaryland08webf.jpg");
+	background-repeat: no-repeat;
+	background-size: large;
+	background-position: 25% 15%;
+}
